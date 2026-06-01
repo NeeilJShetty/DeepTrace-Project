@@ -40,7 +40,7 @@ DeepTrace-Project/
 
 ### Folder Details
 
-* **<rollno>/**
+* **<251ME337>/**
   Rename this placeholder folder with your actual roll number.
 
 Inside your roll number folder, you will find:
