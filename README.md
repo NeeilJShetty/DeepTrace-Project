@@ -32,7 +32,7 @@ cd DeepTrace-Project
 ```text id="vmg4n7"
 DeepTrace-Project/
 │                  
-├── <rollno>/                     
+├── <251ME337>/                     
 │   ├── MNIST_DigitClassification/
 │   └── SLM/
 └── README.md
