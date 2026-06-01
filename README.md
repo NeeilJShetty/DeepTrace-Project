@@ -56,7 +56,7 @@ Inside your roll number folder, you will find:
 # Submission Instructions
 
 1. Clone the repository.
-2. Rename the `<rollno>` folder with your actual roll number.
+2. Rename the `<251ME337>` folder with your actual roll number.
 3. Complete all the tasks stepwise and carefully follow the instructions provided.
 4. Upload your submissions in their respective folders:
 
